@@ -13,8 +13,8 @@ port = 587
 #Ingreso de correos y contraseña
 print('Datos del correo ha enviar\n')
 sender_email = input('Ingrese su correo: ')
-receiver_email = input('Ingrese el correo del destinatario: ')
 password = getpass('Ingrese su contraseña: ')
+receiver_email = input('Ingrese el correo del destinatario: ')
 
 #Ingreso de datos del correo
 subject = input('Ingrese el asunto del correo: ')
