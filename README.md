@@ -2,7 +2,7 @@
 
 ## Tutorial
 
-- Descargas el archivo y lo pegas en una carpeta, en mi ejemplo estoy en este de "Tareas"
+- Descargas el archivo y lo pegas en una carpeta, en mi ejemplo estoy en este de "Tareas"\n
 ![captura tarea](https://github.com/LukasParra/bot_envio_de_correo/assets/150611303/8d6cfef8-2ba5-42f2-9aa1-cc1d23f2532a)
 
 ### Advertencia
