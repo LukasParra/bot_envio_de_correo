@@ -7,7 +7,7 @@
 ![captura tarea](https://github.com/LukasParra/bot_envio_de_correo/assets/150611303/8d6cfef8-2ba5-42f2-9aa1-cc1d23f2532a)
 
 ### Advertencia
-- El bot te pide la url, así que todos los archivos que adjuntes deben estar en carpetas (si esta en la Desktop, Descargas, ect dará error)
+- El bot te pide la url, así que todos los archivos que adjuntes deben estar en carpetas (si esta en la Desktop, Descargas, etc. dará error)
 - Como recomentación guardas tus archivos en la misma carpeta del bot
 
 ## Viene por definido Outlook pero lo puedes modificar los servidores de correo de tu preferiencia
